@@ -1,3 +1,5 @@
+if (global.pause == true) exit;
+
 //Movement
 var _ver = real(keyboard_check(vk_down) -keyboard_check(vk_up));
 

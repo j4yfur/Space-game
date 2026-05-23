@@ -29,6 +29,7 @@
     {"id":{"name":"objGameOver","path":"objects/objGameOver/objGameOver.yy",},},
     {"id":{"name":"objHeart","path":"objects/objHeart/objHeart.yy",},},
     {"id":{"name":"objMeteroid","path":"objects/objMeteroid/objMeteroid.yy",},},
+    {"id":{"name":"objPause","path":"objects/objPause/objPause.yy",},},
     {"id":{"name":"objPew","path":"objects/objPew/objPew.yy",},},
     {"id":{"name":"objShip","path":"objects/objShip/objShip.yy",},},
     {"id":{"name":"objTitle","path":"objects/objTitle/objTitle.yy",},},

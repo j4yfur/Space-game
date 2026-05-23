@@ -1,5 +1,7 @@
 /// @desc create meteroid
 
+if (global.pause == true) exit;
+
 _x = room_width - 16;
 _y = random(room_height);
 
