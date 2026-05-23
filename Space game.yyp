@@ -25,6 +25,7 @@
   "resources":[
     {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},},
     {"id":{"name":"objCreateMeteroid","path":"objects/objCreateMeteroid/objCreateMeteroid.yy",},},
+    {"id":{"name":"objFullscreen","path":"objects/objFullscreen/objFullscreen.yy",},},
     {"id":{"name":"objGameOver","path":"objects/objGameOver/objGameOver.yy",},},
     {"id":{"name":"objHeart","path":"objects/objHeart/objHeart.yy",},},
     {"id":{"name":"objMeteroid","path":"objects/objMeteroid/objMeteroid.yy",},},

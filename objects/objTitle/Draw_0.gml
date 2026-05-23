@@ -21,3 +21,8 @@ var _startX = room_width / 2;
 var _startY = room_height * 0.66;
 	
 draw_text(_startX, _startY, "Press Space to Start");
+
+//Draw how to fullscreen
+draw_set_halign(fa_left);
+
+draw_text_transformed(5, 5, "Press F4 to Fullscreen", 0.5, 0.5, image_angle);
