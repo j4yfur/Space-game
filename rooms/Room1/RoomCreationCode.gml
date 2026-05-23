@@ -1,0 +1,2 @@
+//Set games rendomness
+randomize();
