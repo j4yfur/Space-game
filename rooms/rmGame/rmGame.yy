@@ -1,15 +1,15 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
-  "creationCodeFile":"rooms/Room1/RoomCreationCode.gml",
+  "%Name":"rmGame",
+  "creationCodeFile":"rooms/rmGame/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_6346BEFE","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_62699392","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_62035589","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_59246A08","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_6346BEFE","path":"rooms/rmGame/rmGame.yy",},
+    {"name":"inst_62699392","path":"rooms/rmGame/rmGame.yy",},
+    {"name":"inst_62035589","path":"rooms/rmGame/rmGame.yy",},
+    {"name":"inst_59246A08","path":"rooms/rmGame/rmGame.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,10 +21,10 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":-0.5,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprSpaceBackground","path":"sprites/sprSpaceBackground/sprSpaceBackground.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rmGame",
   "parent":{
-    "name":"Space game",
-    "path":"Space game.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
