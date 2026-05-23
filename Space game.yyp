@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprite","folderPath":"folders/Sprite.yy","name":"Sprite","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -21,10 +22,12 @@
   },
   "name":"Space game",
   "resources":[
+    {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},},
     {"id":{"name":"objCreateMeteroid","path":"objects/objCreateMeteroid/objCreateMeteroid.yy",},},
     {"id":{"name":"objMeteroid","path":"objects/objMeteroid/objMeteroid.yy",},},
     {"id":{"name":"objPew","path":"objects/objPew/objPew.yy",},},
     {"id":{"name":"objShip","path":"objects/objShip/objShip.yy",},},
+    {"id":{"name":"objUI","path":"objects/objUI/objUI.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprMeteroid","path":"sprites/sprMeteroid/sprMeteroid.yy",},},
     {"id":{"name":"sprPew","path":"sprites/sprPew/sprPew.yy",},},

@@ -9,8 +9,8 @@
   "name":"objCreateMeteroid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Space game",
-    "path":"Space game.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
