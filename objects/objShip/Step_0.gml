@@ -15,5 +15,10 @@ if (keyboard_check_pressed(vk_space))
 	if (instance_number(objPew) < 2)
 	{
 		instance_create_layer(x + 16, y, "Instances", objPew);
+		
+		//Picth shift
+		var _pitch = random_range(0.75, 1.25);
+		
+		audio_play_sound(sndPew, 1, false, 0.5, 0, _pitch);
 	}	
 }

@@ -1,5 +1,13 @@
 if (global.gameHealth <= 0)
 {
+	//Set highscore
+	if (global.gameScore > global.highScore)
+	{
+		global.highScore = global.gameScore;
+	}
+	
+	saveGame();
+	
 	//Clear all instances
 	with (all)
 	{

@@ -2,6 +2,8 @@
 
 draw_set_halign(fa_left);
 
+gpu_set_depth(-25);
+
 draw_set_font(mainFont);
 
 //Draw score text
