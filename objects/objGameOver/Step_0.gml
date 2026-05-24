@@ -22,7 +22,7 @@ if (global.gameHealth <= 0)
 	layer_hspeed("Background", 0);
 	
 	//Give option to restart
-	if (keyboard_check_pressed(vk_space))
+	if (keyboard_check_pressed(vk_space) or gamepad_button_check_pressed(0, gp_face1))
 	{
 		game_restart();
 	}
