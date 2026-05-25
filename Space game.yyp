@@ -11,9 +11,9 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprite","folderPath":"folders/Sprite.yy","name":"Sprite","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -38,7 +38,6 @@
     {"id":{"name":"objUI","path":"objects/objUI/objUI.yy",},},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
-    {"id":{"name":"gamepad","path":"scripts/gamepad/gamepad.yy",},},
     {"id":{"name":"scrSaveNload","path":"scripts/scrSaveNload/scrSaveNload.yy",},},
     {"id":{"name":"sndMeteoroid","path":"sounds/sndMeteoroid/sndMeteoroid.yy",},},
     {"id":{"name":"sndPew","path":"sounds/sndPew/sndPew.yy",},},

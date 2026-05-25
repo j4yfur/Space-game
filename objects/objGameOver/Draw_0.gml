@@ -19,12 +19,5 @@ if (global.gameHealth <= 0)
 	var _restartX = room_width / 2;
 	var _restartY = room_height * 0.66;
 	
-	if (global._gamepad == true)
-	{
-		draw_text(_restartX, _restartY, "Press A to Restart");
-	}
-	else
-	{
-		draw_text(_restartX, _restartY, "Press Space to Restart");
-	}
+	draw_text(_restartX, _restartY, "Press Space to Restart");
 }	
